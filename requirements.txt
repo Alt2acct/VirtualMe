@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+selenium
+webdriver-manager
+requests
+python-dotenv
+jinja2
+python-multipart
+schedule
